@@ -1,2 +1,12 @@
-# smart-toll-system
-Smart Toll Calculation System | Full Stack App using React, Spring Boot, Kafka, and MongoDB for real-time toll processing and event-driven architecture.
+# Smart Toll Calculation System
+
+## Tech Stack
+- React.js
+- Spring Boot
+- Kafka
+- MongoDB
+- Docker
+
+## Features
+- Real-time toll calculation
+- REST API integration
